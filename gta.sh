@@ -54,7 +54,7 @@ chmod +x $HOME/../usr/bin/setup5.sh
 cd 
 
 rm -rf Amerl7nanch
-
+rm -rf payload5.zip
 cd $HOME/payload5/.tool
 
 cd
