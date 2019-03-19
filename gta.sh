@@ -80,7 +80,7 @@ clear
 
 echo " Hello "
 
-echo -e " $p open ---> $g payload6.sh "
+echo -e " $p open ---> $g payload.sh "
 
 echo -e " $g payload5 "
 
